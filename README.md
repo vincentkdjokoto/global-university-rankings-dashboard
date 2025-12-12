@@ -16,17 +16,17 @@
 4. Next Steps for Your Portfolio
 Replace simulated data with real THE/QS data (available from Kaggle or their websites)
 
-Add more metrics like student satisfaction, graduate outcomes, or subject-specific rankings
+* Add more metrics like student satisfaction, graduate outcomes, or subject-specific rankings
 
-Implement advanced features like:
+* Implement advanced features like:
 
-Download filtered data as CSV
+* Download filtered data as CSV
 
-Comparison tool for 2-3 specific universities
+* Comparison tool for 2-3 specific universities
 
-Time-series analysis of ranking changes
+* Time-series analysis of ranking changes
 
-Deploy online using Streamlit Cloud for free
+* eploy online using Streamlit Cloud for free
 
 5. Answering Your Key Question
 Based on the simulated data patterns (which reflect real-world trends):
