@@ -1,17 +1,17 @@
 # global-university-rankings-dashboard
 
-Key Features of This Implementation
-Interactive filtering by region, country, rank, and scores
+3. Key Features of This Implementation
+* Interactive filtering by region, country, rank, and scores
 
-Regional comparison radar charts showing US vs Europe vs Africa profiles
+* Regional comparison radar charts showing US vs Europe vs Africa profiles
 
-Teaching vs Research analysis with correlation metrics
+* Teaching vs Research analysis with correlation metrics
 
-University explorer with detailed metrics for each institution
+* University explorer with detailed metrics for each institution
 
-Key insights tab answering your research question directly
+* Key insights tab answering your research question directly
 
-Fully responsive design with educational context throughout
+* Fully responsive design with educational context throughout
 
 4. Next Steps for Your Portfolio
 Replace simulated data with real THE/QS data (available from Kaggle or their websites)
